@@ -56,7 +56,9 @@
 <li>Scheduling office hours with investors or mentors: <b>OHours</b></li>
 <li>Scheduling conference rooms and coworking drop in: <b>Liquidspace</b> </li>
 <li>CMS:<b> Wordpress </b></li>
-</ol><p><b>Preparing for Launch</b></p>
+</ol>
+
+<h2>Preparing for Launch</h2>
 
 <p>One of the first steps you will need to take in preparing for launch is around branding and messaging of your effort. Partnering with a PR firm to drive key messaging around statistics, themes, and value propositions will help to create language you can build your brand around. Use language from your vision/mission statement efforts as well. When branding your effort, think about every piece of the puzzle, who it touches, how it affects them, and how you want it to be conveyed. Working with a designer is a great first step once your messaging has been created so that they can help define initial constructs around the logo(s), programs, web and social media presence. Create a series of logos with common color schemes and components that could be used in many contexts. Create a series of creative images build around your brand for the web, print collateral, thank you cards, headers/footers for documents, slide decks, and signatures for email. Have around a dozen of standardized images to use. As programs are launched, created branded marketing materials around each program. </p>
 
@@ -68,9 +70,9 @@
 
 <p>Initially, communication is difficult when you are new and growing. Therefore, establishing regular community newsletters from day one and a consistent social media presence will help establish your baseline that can be expanded as your scale. </p>
 
-<p><b>What to look for in startups</b></p>
+<h2>What to look for in startups</h2>
 
-<p>One of the most common questions we get from startups and partners is "what are you looking for in a startup?". What we often tell them is that our decision criteria are as objective as we can make the, but ultimately come down to a subjective, gut feel. The objective criteria, however, need to be communicated openly and concisely so as to ensure companies know where they stand from the beginning and to make your inflow process more efficient. We focus, objectively, on a couple of criteria: stage and trajectory. Regarding stage, we believe startups can fit into one of only a few stages: Idea, Idea+, Pre-Revenue, Revenue, and Growth Stage. At the DEC, we incubate companies primarily in the Idea+ and Pre-Revenue stages, but house companies of all stages. Idea+ is a crucial area for most entrepreneurs, which is why we target it. To us, an entrepreneur hasn't started until they go from Idea to Idea+ which entails taking an idea, creating a plan of action, putting what little personal/friends &amp; family capital they can towards it, and jumping in full time (or as close to full time as they can). This is where a startup truly begins. Regarding trajectory, our other objective criteria, we target companies that have the potential to be high growth and are/have been making progress.</p>
+<p>One of the most common questions we get from startups and partners is "what are you looking for in a startup?". What we often tell them is that our decision criteria are as objective as we can make the, but ultimately come down to a subjective, gut feel. The objective criteria, however, need to be communicated openly and concisely so as to ensure companies know where they stand from the beginning and to make your inflow process more efficient. We focus, objectively, on a couple of criteria: stage and trajectory. Regarding stage, we believe startups can fit into one of only a few stages: Idea, Idea+, Pre-Revenue, Revenue, and Growth Stage. At the DEC, we incubate companies primarily in the Idea+ and Pre-Revenue stages, but house companies of all stages. Idea+ is a crucial area for most entrepreneurs, which is why we target it. To us, an entrepreneur hasn't started until they go from Idea to Idea+ which entails taking an idea, creating a plan of action, putting what little personal/friends & family capital they can towards it, and jumping in full time (or as close to full time as they can). This is where a startup truly begins. Regarding trajectory, our other objective criteria, we target companies that have the potential to be high growth and are/have been making progress.</p>
 
 <p>Additionally, we subjectively evaluate eight criteria: Team, Business Structure, Community Engagement, Product, Value Proposition, Pricing/Revenue Model, Financials, and Cultural Fit. </p>
 
@@ -92,7 +94,7 @@
 
 <p>So, you may ask 'how do I learn all of this without bombarding a company with too many questions?' The reality is, each company will approach engaging with your incubator differently and you will communicate your vision and reasons to each of them for joining your program. </p>
 
-<p><b>What to offer</b></p>
+<h2>What to offer</h2>
 
 <p>Incubation Program</p>
 
@@ -141,7 +143,7 @@
 <li>Accelerators, Incubators and Coworking spaces</li>
 <li>Networking events</li>
 <li>Other ways to get involved</li>
-<li>Q&amp;A</li>
+<li>Q&A</li>
 </ol><p><b>Intro to Raising Startup Capital</b></p>
 
 <p>This class will walk you through the core fundraising types: Self Funding, Friends and Family, Angel, Bank Loans, Venture Capital, Private Equity, Crowdfunding and Customers. Students will walk through term sheets in a negotiation. Learn what an investor is looking for from the entrepreneur. </p>
@@ -269,7 +271,9 @@
 <li>Offer education discounts to your events, programs, and incubator</li>
 <li>Partner with a university's entrepreneurship or tech commercialization program to offer incubation or classes</li>
 <li>Create a class at a local university focused on lean startup processes and incubate students who graduate</li>
-</ol><p><b>Executing Education Programs</b></p>
+</ol>
+
+<h2>Executing Education Programs</h2>
 
 <p>There are many steps involved each class, but we've learned that a significant portion of designing, finding instructors, operating and marketing the class are processes that can be replicated with efficiency.</p>
 
