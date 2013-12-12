@@ -1,18 +1,4 @@
-<p><b>Overview</b></p>
-
-<p><i>What is the DEC and why was it created.</i></p>
-
-<p>The Dallas Entrepreneur Center was created to serve the purpose of filling a series of gaps in the Dallas startup ecosystem. The first gap was that Dallas did not have a location where any entrepreneur at any stage could gain access to resources, space, events, mentoring, education, and capital in one location. In essence, Dallas did not have a resource center. Additionally, the Dallas startup ecosystem, one of the largest and most spread out geographic regions in the United States, did not have a concerted voice to communicate and promote the great things happening in the region to the rest of the world. The DEC builds relationships with traditional media outlets and online media publications around the country in an effort to connect them to real stories and major announcements coming out of the DFW startup community. The Dallas economy is fueled by banking, commerce, telecommunications, computer technology, energy, healthcare and medical research, transportation and logistics. Within our region, lives 18 Fortune 500 headquarters, 10,000 businesses have corporate headquarters here, and organizations such as Microsoft, PepsiCo, Samsung, and Ericsson have a major presence in the region. Additionally, our population makes up 6 million people and our economy is the sixth largest in the United States. Dallas is the fifth-largest market for self-employed workers with 19,000 new businesses starting here every year. But where do they all go? The DEC serves entrepreneurs in Dallas - providing a location where they can receive training, education, mentorship, promotion, and capital in order to equip and encourage the entrepreneurial community to be one of the best startup ecosystems in the world. </p>
-
-<p><i>What is an incubator.</i></p>
-
-<p>Business incubators are organizations geared toward speeding up the growth and success of startup and early stage companies. They’re often a good path to capital from angel investors, state governments, economic-development coalitions and other investors.</p>
-
-<p><i>Why create an incubator. </i></p>
-
-<p>An incubator serves many purposes and each founding team or organization must decide the purpose. Some incubators are created out of governmental support and desire to impact an industry or geographic region. Some incubators are created by cities or economic development groups to support job creation. Some incubators are created as non profits to support a growing startup community. Some are created by universities to support faculty, students, and alumni in pursuing technology commercialization and startups. And some incubators are created as for-profits as tools for supporting early stage deal flow into a fund or acquisition tool. Based on your desired structure and outcome, you will find many successful models to align with, learn from, and even partner with by engaging nationally with organizations like the National Business Incubation Association (<a href="http://www.nbia.org/">www.nbia.org</a>).</p>
-
-<p><b>Incubator setup </b></p>
+<h2>Incubator setup </h2>
 
 <p><i>Vision</i></p>
 
